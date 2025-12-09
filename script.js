@@ -45,7 +45,6 @@ b2.onclick=() => {
    p2.innerText = arry2; 
 }
 
-
 let poparry= document.getElementById("poparry")
 let b3=document.getElementById("b3")
 let arry3 = ["a", "b" ,"c"];
